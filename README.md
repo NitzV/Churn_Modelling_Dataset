@@ -1,7 +1,6 @@
-# Churn_Modelling_Dataset
+# Churn-Modelling-Dataset
 Predicting which set of the customers are gong to churn out from the organization by looking into some of the important attributes and applying Machine Learning and Deep Learning on it.
 
-Predicting which set of the customers are gong to churn out from the organization by looking into some of the important attributes and applying Machine Learning and Deep Learning on it.
 
 Customer churn refers to when a customer (player, subscriber, user, etc.) ceases his or her relationship with a company. Online businesses typically treat a customer as churned once a particular amount of time has elapsed since the customer's last interaction with the site or service.
 
